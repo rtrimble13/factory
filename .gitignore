@@ -44,6 +44,7 @@
 build/
 cmake-build-*/
 _build/
+_codeql*/
 
 # CMake
 CMakeCache.txt
