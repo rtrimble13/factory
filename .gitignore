@@ -51,6 +51,8 @@ CMakeFiles/
 cmake_install.cmake
 CTestTestfile.cmake
 _deps/
+Makefile
+*.mk
 
 # IDE
 .vscode/
